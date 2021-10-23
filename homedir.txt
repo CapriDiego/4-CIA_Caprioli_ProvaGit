@@ -1,0 +1,28 @@
+Il volume nell'unità C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4c03.LABICA3
+
+04/10/2021  09:18    <DIR>          .
+04/10/2021  09:18    <DIR>          ..
+29/09/2021  09:10    <DIR>          .eclipse
+29/09/2021  09:48                67 .gitconfig
+29/09/2021  10:07                20 .lesshst
+04/10/2021  10:39               190 .packettracer
+04/10/2021  09:18    <DIR>          3D Objects
+04/10/2021  10:57    <DIR>          Cisco Packet Tracer 8.0.1
+04/10/2021  09:18    <DIR>          Contacts
+23/10/2021  09:25    <DIR>          Desktop
+04/10/2021  09:18    <DIR>          Documents
+04/10/2021  09:18    <DIR>          Downloads
+04/10/2021  09:18    <DIR>          Favorites
+04/10/2021  09:18    <DIR>          Links
+04/10/2021  09:18    <DIR>          Music
+20/09/2021  09:33    <DIR>          OneDrive
+04/10/2021  09:18    <DIR>          Pictures
+04/10/2021  09:18    <DIR>          Saved Games
+04/10/2021  09:18    <DIR>          Searches
+04/10/2021  09:18    <DIR>          Videos
+23/10/2021  08:32    <DIR>          workspace
+               3 File            277 byte
+              18 Directory  74.570.366.976 byte disponibili
